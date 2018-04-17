@@ -22,7 +22,7 @@ var alice = {
 console.log(alice.name); // >> Alice
 console.log(alice['name']); // >> Alice
 console.log(alice['year of birth']); // >> 1991
-console.log(alice['1']); // >> 1991
-console.log(alice[1]); // >> 1991
+console.log(alice['1']);
+console.log(alice[1]);
 alice['lastname'] = 'Wonderland';
 console.log(alice.lastname);

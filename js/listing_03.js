@@ -1,5 +1,5 @@
-console.log(y);
 console.log(x);
+console.log(y);
 var x = 12;
 
 
